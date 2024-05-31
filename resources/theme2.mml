@@ -1,4 +1,4 @@
-<!-- System Se7en 1.2 by Hopper <hopper@whpress.com> -->
+<!-- System Se7en 1.3 by Hopper <hopper@whpress.com> -->
 <!-- Thanks to Christian Bauer for the original theme1 file and images -->
 <!-- Thanks to Ian Pitcher for the initial theme2 file -->
 
@@ -15,7 +15,7 @@
   <color index="0" red="0.0" green="0.0" blue="0.0"/>
   <color index="1" red="1.0" green="1.0" blue="1.0"/>
   <color index="2" red="0.0" green="0.0" blue="0.0"/>
-  <font file="Chicago.ttf" size="12"/>  
+  <font file="ChicagoFLF.ttf" size="12"/>  
 </default>
 
 <checkbox top="0" height="12">
@@ -47,7 +47,7 @@
 
 <!-- Dialog title -->
 <title top="10" bottom="10" height="40">
-<font file="Chicago.ttf" size="18" style="0"/>
+<font file="ChicagoFLF.ttf" size="18" style="0"/>
   <color red="0.0" green="0.0" blue="0.0"/>
 </title>
 
@@ -56,7 +56,7 @@
 
 <!-- Button -->
 <button top="2" left="12" right="12" height="24">
-  <font file="Chicago.ttf" size="12" style="0"/>
+  <font file="ChicagoFLF.ttf" size="12" style="0"/>
   <color index="0" red="0.0" green="0.0" blue="0.0"/>
   <image index="0" file="button_l.bmp" scale="false"/>
   <image index="1" file="button_c.bmp" scale="false"/>
@@ -82,7 +82,7 @@
 </button>
 
 <tiny_button top="1" left="12" right="12" height="16">
-  <font file="Chicago.ttf" size="11" style="0"/>
+  <font file="ChicagoFLF.ttf" size="11" style="0"/>
   <color index="0" red="0.0" green="0.0" blue="0.0"/>
   <image index="0" file="tbutton_l.bmp" scale="false"/>
   <image index="1" file="tbutton_c.bmp" scale="false"/>
@@ -180,7 +180,7 @@
 </slider>
 
 <tab top="2" left="12" right="12" height="24" inner_left="10" inner_right="10">
-  <font file="Chicago.ttf" size="12" style="0"/>
+  <font file="ChicagoFLF.ttf" size="12" style="0"/>
   <color red="0.0" green="0.0" blue="0.0"/>
   <image index="0" file="button_l.bmp" scale="false"/>
   <image index="1" file="button_c.bmp" scale="false"/>

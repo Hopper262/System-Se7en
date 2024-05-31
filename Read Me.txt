@@ -1,4 +1,4 @@
-System Se7en 1.2
+System Se7en 1.3
 ----------------
 by Christian Bauer and Hopper
 
@@ -14,6 +14,9 @@ INSTALLATION:
 
 ----------------------------------------------------------------
 CHANGELOG:
+
+v1.3:
+* Switch to the public-domain ChicagoFLF font by Robin Casady (thanks to Treellama for patching and testing)
 
 v1.2:
 * Added arrows in list scrollbar (they don't work, but they look nice)
